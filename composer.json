@@ -14,15 +14,11 @@
 			"email": "ehtnam6@gmail.com"
 		}
 	],
-	"repositories": [
-		{
-			"url": "https://github.com/rocketeers/rocketeer.git",
-			"type": "git"
-		}],
+
 	"require": {
 		"php": ">=5.4.0",
 		"illuminate/support": "^5.0",
-		"rocketeers/rocketeer": "dev-develop",
+	//	"anahkiasen/rocketeer": "dev-develop",
 		"maknz/slack": "^1.7"
 	},
 	"autoload": {
